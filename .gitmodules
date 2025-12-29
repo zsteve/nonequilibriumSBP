@@ -1,0 +1,6 @@
+[submodule "tools/GP_Sinkhorn"]
+	path = tools/GP_Sinkhorn
+	url = https://github.com/franciscovargas/GP_Sinkhorn
+[submodule "tools/nlsb"]
+	path = tools/nlsb
+	url = https://github.com/take-koshizuka/NLSB
